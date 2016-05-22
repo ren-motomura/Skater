@@ -21,7 +21,7 @@ class Skater {
         borderLayout()
 
         panel(constraints: BorderLayout.NORTH) {
-          button('OK', icon: imageIcon(url: getClass().getResource('../../red.jpg')))
+          button('OK', icon: imageIcon(url: getClass().getResource('red.jpg')))
         }
         panel(constraints: BorderLayout.SOUTH) {
           button('NG')
