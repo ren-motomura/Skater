@@ -1,3 +1,5 @@
+package com.example
+
 import groovy.swing.SwingBuilder
 import javax.swing.*
 
